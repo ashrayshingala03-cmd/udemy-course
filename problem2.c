@@ -6,7 +6,7 @@ int main(){
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    temp = n;   // original value store
+    temp = n;   
 
     while(n){
         r = n % 10;
